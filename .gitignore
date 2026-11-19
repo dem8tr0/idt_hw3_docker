@@ -1,0 +1,4 @@
+.test-artifacts/
+.env.env
+__pycache__/
+*.log
